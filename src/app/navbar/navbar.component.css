@@ -1,0 +1,10 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand .material-icons {
+    margin-right: 0.5rem;
+  }
+  .navbar-brand .btn {
+    margin-left: auto;
+  }
